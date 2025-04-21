@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <Response>
-        <Say voice="Polly.Mizuki" language="ja-JP">
+        <Say>
             これはZabbixからのテスト通話です。サーバーのCPUが高負荷です。
         </Say>
     </Response>
